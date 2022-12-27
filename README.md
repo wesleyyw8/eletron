@@ -8,4 +8,6 @@ vai no diretório  my-app com o terminal
 
 npm install
 
-depois npm start
+depois npm run make
+
+olha o applicativo no diretório out.
